@@ -6,11 +6,11 @@ My interest in computers evolved into a passion for the fields of Augmented Real
 
 ![](https://img.shields.io/badge/I'm%20currently%20working%20-8A2BE2) on **end-to-end LLm based product**
 
-![](https://img.shields.io/badge/I'm%20currently%20learning%20-2361DAFB)the **AWS Services**
+![](https://img.shields.io/badge/I'm%20currently%20learning%20-2361DAFB) the **AWS Services**
 
-![](https://img.shields.io/badge/All%20my%20Projects%20-23ffffff)are available at [My Portfolio](https://portfolio.shrinivas.tech/)
+![](https://img.shields.io/badge/All%20my%20Projects%20-23ffffff) are available at [My Portfolio](https://portfolio.shrinivas.tech/)
 
-![](https://img.shields.io/badge/I%20regularly%20write%20articles%20-230C55A5)on [My Blog/](https://shrinivas.tech/)
+![](https://img.shields.io/badge/I%20regularly%20write%20articles%20-230C55A5) on [My Blog](https://shrinivas.tech/)
 
 
   
