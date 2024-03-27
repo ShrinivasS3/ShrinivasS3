@@ -4,13 +4,13 @@
 # 💫 About Me:
 My interest in computers evolved into a passion for the fields of Augmented Reality/Virtual Reality (AR/VR), Cybersecurity, and Artificial Intelligence (AI).<br>As I dwelled deeper into these domains, I realized the transformative potential of AI. I realized that AI could open up new possibilities across all these fields. This realization ignited a desire to explore AI further and leverage its capabilities to impact these fields significantly.<br>The recent advancements in Large Language Models and Large Multi-Modal Models have fueled my enthusiasm. Seeing how these technologies will make any field more interactive and expressive is exciting. <br>
 
-![](https://img.shields.io/badge/Currently%20working%20on-8A2BE2) I’m currently working on **end-to-end LLm based product**
+![](https://img.shields.io/badge/I'm%20currently%20working%20-8A2BE2) on **end-to-end LLm based product**
 
-![](https://img.shields.io/badge/Currently%20learning%20-8A2BE2)I’m currently learning **AWS Services**
+![](https://img.shields.io/badge/I'm%20currently%20learning%20-2361DAFB)the **AWS Services**
 
-![](https://img.shields.io/badge/My%20Projects%20-8A2BE2)All of my projects are available at [https://portfolio.shrinivas.tech/](https://portfolio.shrinivas.tech/)
+![](https://img.shields.io/badge/All%20my%20Projects%20-23ffffff)are available at [My Portfolio](https://portfolio.shrinivas.tech/)
 
-![](https://img.shields.io/badge/Regularly%20write%20articles%20on-8A2BE2)I regularly write articles on [https://shrinivas.tech/](https://shrinivas.tech/)
+![](https://img.shields.io/badge/I%20regularly%20write%20articles%20-230C55A5)on [My Blog/](https://shrinivas.tech/)
 
 
   
