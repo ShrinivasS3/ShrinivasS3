@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrinivas Sesadri</h1>
-<h3 align="center">A passionate researcher from India</h3>
+<h3 align="center">A CS undergrad from India</h3>
 
 # 💫 About Me:
 My interest in computers evolved into a passion for the fields of Augmented Reality/Virtual Reality (AR/VR), Cybersecurity, and Artificial Intelligence (AI).<br>As I dwelled deeper into these domains, I realized the transformative potential of AI. I realized that AI could open up new possibilities across all these fields. This realization ignited a desire to explore AI further and leverage its capabilities to impact these fields significantly.<br>The recent advancements in Large Language Models and Large Multi-Modal Models have fueled my enthusiasm. Seeing how these technologies will make any field more interactive and expressive is exciting. <br>
