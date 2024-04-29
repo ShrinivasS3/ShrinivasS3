@@ -10,7 +10,7 @@ My interest in computers evolved into a passion for the fields of Augmented Real
 
 ![](https://img.shields.io/badge/All%20my%20Projects%20-23ffffff) are available at [My Portfolio](https://portfolio.shrinivas.tech/)
 
-![](https://img.shields.io/badge/I%20try %20to%20write%20regularly%20-230C55A5) at [My Blog](https://shrinivas.tech/)
+![](https://img.shields.io/badge/I%20try%20to%20write%20regularly%20-230C55A5) at [My Blog](https://shrinivas.tech/)
 
 
   
