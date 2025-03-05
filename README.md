@@ -2,7 +2,9 @@
 <h3 align="center">A CS undergrad from India</h3>
 
 # 💫 About Me:
-My interest in computers evolved into a passion for the fields of Augmented Reality/Virtual Reality (AR/VR), Cybersecurity, and Artificial Intelligence (AI).<br>As I dwelled deeper into these domains, I realized the transformative potential of AI. I realized that AI could open up new possibilities across all these fields. This realization ignited a desire to explore AI further and leverage its capabilities to impact these fields significantly.<br>The recent advancements in Large Language Models and Large Multi-Modal Models have fueled my enthusiasm. Seeing how these technologies will make any field more interactive and expressive is exciting. <br>
+I’m a creator, thinker, and explorer at the intersection of art, technology, and time. I’m dedicated to pushing the boundaries of Artificial General Intelligence by uniting the insights of large language models and computational neuroscience.
+
+In AI and technology, I seek to merge human intuition with machine intelligence, exploring how creativity and computation can coexist. <br>
 
 ![](https://img.shields.io/badge/I'm%20currently%20working%20-8A2BE2) on **end-to-end LLM based product**
 
@@ -10,7 +12,7 @@ My interest in computers evolved into a passion for the fields of Augmented Real
 
 ![](https://img.shields.io/badge/All%20my%20Projects%20-23ffffff) are available at [My Portfolio](https://portfolio.shrinivassesadri.in/)
 
-![](https://img.shields.io/badge/I%20try%20to%20write%20regularly%20-230C55A5) at [My Blog](https://blog.shrinivassesadri.in/) (Coming Soon)
+![](https://img.shields.io/badge/I%20try%20to%20write%20regularly%20-230C55A5) at [My Blog](https://blog.shrinivassesadri.in/) (Synchronized Chaos)
 
 
   
